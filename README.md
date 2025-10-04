@@ -4,7 +4,7 @@
 Ce projet a pour but de reproduire plusieurs pages d'un site web donné dans le cadre d’un exercice pratique en groupe d'une durée de deux semaines.
   
 Les objectifs principaux étant de :
--  recréer une page web au plus proche possible et de pratiquer la création d'une base de donnée et de pouvoir l'utiliser.
+- Recréer une page web au plus proche possible et de pratiquer la création d'une base de donnée et de pouvoir l'utiliser.
 - Avoir un affichage Accessible et Responsive
 - Apprendre à utiliser un framework Css ( dans notre cas il s'agit de Tailwind Css )
 - Manipulation du DOM et faire des recherches  dans une base de donnée
